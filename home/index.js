@@ -1,6 +1,6 @@
-console.log("Loaded index js")
+console.log("Loaded index js...")
 
 const button = document.createElement("button")
 button.innerText = "Click me"
-button.onclick = () => alert("Hello from index.js!")
+button.onclick = () => alert("Hola desde index.js!")
 document.body.appendChild(button)
