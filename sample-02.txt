@@ -1,1 +1,2 @@
 Sample 2 Modificado
+Editado desde GitHub. igual que el otro sample.txt
